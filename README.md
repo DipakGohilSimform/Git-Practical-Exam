@@ -20,7 +20,7 @@
 
   
 
-4. After approving the pull request dev branch will be merged with the master baranch. In this case we own the master branch so we can approve the pull request.
+4. After approving the pull request dev branch will be merged with the master branch. In this case we own the master branch so we can approve the pull request.
   
   
 
