@@ -99,7 +99,7 @@ git cherry-pick adff5634aa38365e2d32c2a9fdb30e8c5fa44528
 
 ```sh 
 
-git reset --hard HEAD~2 
+git reset --soft HEAD~2 
 
 ``` 
 
