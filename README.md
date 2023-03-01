@@ -110,11 +110,11 @@ git reset --hard HEAD~2
 
   
 
-- To remove the last commit from git, we can simply run git reset --hard HEAD^   
+- To remove the last commit from git, we can simply run git reset --SOFT HEAD^   
 
   
 
-- If we want to remove multiple commits from the top, we can run git reset --hard HEAD~2 to remove the last two commits.  
+- If we want to remove multiple commits from the top, we can run git reset --SOFT HEAD~2 to remove the last two commits.  
 
   
 
